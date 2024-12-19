@@ -1,3 +1,10 @@
+/**
+ * @file adxl345.h
+ * @brief ADXL345 Sensörü için Register Tanımları ve Fonksiyonlar
+ * 
+ * @author uzunberkay
+ * @date 19.12.2024
+ */
 #ifndef ADXL345_H
 #define ADXL345_H
 

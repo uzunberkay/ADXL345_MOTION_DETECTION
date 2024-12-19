@@ -1,3 +1,11 @@
+/**
+ * @file gpio_settings.h
+ * @brief GPIO Pin Yapılandırmaları ve İşlevleri
+ * 
+ * @author uzunberkay
+ * @date 19.12.2024
+ */
+
 #ifndef GPIO_SETTINGS_H
 #define GPIO_SETTINGS_H
 
