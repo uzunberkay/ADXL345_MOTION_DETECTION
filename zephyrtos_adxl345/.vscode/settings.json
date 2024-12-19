@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio_settings.h": "c",
+        "log.h": "c",
+        "gpio.h": "c",
+        "kernel.h": "c",
+        "utils.h": "c",
+        "stdio.h": "c",
+        "adc_t.h": "c"
+    }
+}
