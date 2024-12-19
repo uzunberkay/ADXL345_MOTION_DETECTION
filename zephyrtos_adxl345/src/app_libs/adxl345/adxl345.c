@@ -234,7 +234,7 @@ private int init_adxl_interrupt(void)
 
 
 
-static int adxl345_init_func(const struct device *dev)
+private int adxl345_init_func(const struct device *dev)
 {
     ARG_UNUSED(dev); 
     init_adxl_interrupt();
